@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: User Story
-about: Coursera IBM User Stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
